@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand plunderer: a subject never before writen; and great pity it is, that so mischievous a subject as this is, should survive in such malignant times as these are. Written by one, who hates not the man, but his manners; and loves his person, but likes not his condition.</title>
+            <author>One who hates not the man, but his manners, and loves his person, but likes not his condition.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85525</idno>
+            <idno type="STC">Wing G1504</idno>
+            <idno type="STC">Thomason E93_15</idno>
+            <idno type="STC">ESTC R13225</idno>
+            <idno type="EEBO-CITATION">99859438</idno>
+            <idno type="PROQUEST">99859438</idno>
+            <idno type="VID">155773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155773)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E93[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand plunderer: a subject never before writen; and great pity it is, that so mischievous a subject as this is, should survive in such malignant times as these are. Written by one, who hates not the man, but his manners; and loves his person, but likes not his condition.</title>
+                  <author>One who hates not the man, but his manners, and loves his person, but likes not his condition.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed n the yeare, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "March 17 1642"; the 3 in the imprint date has also been crossed out and date altered to 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155773:1" rendition="simple:additions"/>
+            <p>THE GRAND PLUNDERER: A SVBIECT Never before writen;
+<hi>And great pity it is, that ſo miſchievous a ſubject as this is, ſhould ſurvive in ſuch malignant Times as theſe are.</hi>
+            </p>
+            <p>VVritten by one, who hates not the man, but his manners; and loves his perſon, but likes not his condition.</p>
+            <p>Printed in the yeare, 1643</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155773:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:155773:2"/>
+            <head>The grand Plunderer.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>onſtrum borrendem ingens cui lumen ademptum</hi> He's a horrid, huge monſter, deprived of the eye of Equity; for indeed Juſtice (one of the foure Cardinal vertues) is in as much antipathy to him, as day to night, or the glorious ſplendor of the Sunne to cymmerian darkneſſe. 'Tis the proper<g ref="char:EOLhyphen"/>ty of Juſtice, <hi>ſuum cui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tribuere,</hi> to render to every one his owne due and right; but it is this monſters property (or rather his monſtrous nature) to take away from us our propriety, thoſe goods which wee may joſtly lay claime to, and in which wee have ſole intereſt: <hi>Admirandum eſt hoc monſtrum,</hi> this monſter is to be admired at, for that hee doth deſperately rav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh from us our right, <hi>manu violento,</hi> by a violent hand, <hi>unae habe at nemo quarit ſed oportet habere;</hi> by hooke, or by crooke, <hi>per fas, aut nefas,</hi> he neither feares nor cares how, or by what unlawful meanes he comes by it, only ſo he may have it. He makes no more conſcience to ſwal<g ref="char:EOLhyphen"/>low up ſpeedily a mans eſtate at a bit, then our Dutch doe to devoure nimbly pills of butter, and never purge for it. As his name is formi<g ref="char:EOLhyphen"/>dable, ſo his nature is dreadfull, being of himſelfe phyſically (namely naturally) a terrible ſcarrecrow, and horrible vulture to thoſe perſons and places, with which he is reſident, or whereſever he is preſen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> He rejoyces at others ſorrowe, and riſes by their fall: He can hardly ſubſiſt but by the ſpoyle and ruine of his neighbour, to whom ſuch is
+<pb n="2" facs="tcp:155773:3"/>
+his implacable malice and cruell hoſtility, that for his owne ends his endeavour is to make him a ſacrifice. He is a bad ſervant to God, and as ill a Subject to the King, the King of Kings vicegerent here on earth. His motto, is Have at all; either <hi>totum aut nihil,</hi> All, or nothing at all: His dialect like that of the Carthaginean <hi>Hannibal, Actum (in<g ref="char:EOLhyphen"/>quit) nihil eſt, niſi Paeno milite portes frangimus;</hi> nothing is by him per<g ref="char:EOLhyphen"/>formed, unleſſe with a troope of ſouldiers he batters the gates, and en<g ref="char:EOLhyphen"/>force 'em open: And for his actions, I may ſay of them, as ſometimes <hi>Catiline</hi> the Romane conſpirator ſaid of his, The ills that he hath done cannot be ſafe but by attempting greater. He is truly the Malignam Partie <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, by way of eminence, above all others, none ſo miſ<g ref="char:EOLhyphen"/>chievousas he and he more malevolent and ill affected then any: As he is <hi>malignus in Corcreto,</hi> ſo he is that party <hi>in Abſtracto.</hi> He is a ſpirit, but an evill one, for he has no ſpirit at all unto peace; and that's the reaſon he delights ſo much in the rumours and tumours of warre: He is a true ſonne of tumult and inſurrection, the onely Antagoniſt to peace and union; like the Salamander, he lives by and in the fire of contention: He himſelfe is of himſelfe <hi>malus ignis,</hi> an evill fire, (as the word <hi>ma<g ref="char:EOLhyphen"/>lignus</hi> ſignifies no leſſe) the only incendiary and firebrand of unnatu<g ref="char:EOLhyphen"/>rall and inteſtine warre; in which horrid time, he conſumes and de<g ref="char:EOLhyphen"/>vaſts all that he meetes with, and like a truculent Tyrant, ſpare; none whome he may or can oppreſſe. High and low, rich and poore, no<g ref="char:EOLhyphen"/>ble and ignoble, bond and free, all are alike to him. As the Divell him<g ref="char:EOLhyphen"/>ſelfe (that ſubtile and ſly <hi>Piſcator)</hi> of all fiſh loves ſoules beſt, ſo the deſire of his ſoule is the heart of your eſtates; that's the maine marke that he aimes at; nevertheleſſe all is fiſh that comes to his net, and then (having once catcht you) hee makes money and emolument of the goods ſo gotten for his owne advantage: He cares not who buyes 'em (whether a Jew, or a Chriſtan, all's one to him) ſo he may receive the gaine and profit for them. He is altogether compoſed of ſedition, murther, and rapine; with which triple cord of iniquity he is ſo ſtrong<g ref="char:EOLhyphen"/>ly bound up, that from his impiety he can hardly be diſſolved, but is ſtrongly
+<pb n="3" facs="tcp:155773:3"/>
+bound up from his impiety he can hardly be diſſolved, but <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s firmer tyed (and as it were obliged by an unhappy fate) to tranſ<g ref="char:EOLhyphen"/>greſſe more and more in an outragious manner, againſt God the King, and his Subjects. To plunder is properly predicated of him, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he more alluding and he himſelfe inclining to thoſe hideous at<g ref="char:EOLhyphen"/>tempts and direfull outrages, which in the horrid time by him, as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orrid are perpetrated and committed. He breakes in violently, and ſeiſes as unmercifully upon the beſt he can lay his hands on. He in<g ref="char:EOLhyphen"/>vades fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt by force, where having got entrance, <hi>ſic volo ſic jubeo ſtat pro ratione voluntas;</hi> his will is his Law, and he feares no controll<g ref="char:EOLhyphen"/>ment nor contradiction, aſſuming to himſelf an abitrary power and juriſdiction, and by no meanes will be perſwaded to yield confor<g ref="char:EOLhyphen"/>mity to the legiſlative authority of the Law of this Land.</p>
+            <p>Never was there more plundering and pillaging then hath beene in theſe latter times, and is now at this time. What barbarous inſolencies, inhumane affronts, and never the like heard of villanies have been and are ſtill daily acted both here in <hi>England,</hi> and alſo elſewhere in <hi>Ireland,</hi> in the famous cities and countreys of thoſe two once flouriſhing and renowned (but now tottering, and ſick languiſh<g ref="char:EOLhyphen"/>ing) Kingdomes, the ſad hiſtory of this unhappy age doth ſufficient<g ref="char:EOLhyphen"/>ly teſtifie. In priſtine times the Plunderer was termed <hi>Damon no<g ref="char:EOLhyphen"/>cturnus,</hi> a Devill that ranged about in the night ſeaſon. The act of Plundering was then reputed ſo heinous a crime, that it was acount<g ref="char:EOLhyphen"/>ed no better then Burglary, and that was then <hi>opus tenebraruns</hi> a work of darkneſſe, and was aſhamed to ſhew it ſelf openly to the view of the world, but now in theſe latter times, he is grown to that front<g ref="char:EOLhyphen"/>leſſe impudence, that he is become <hi>Damon meridianus,</hi> and dares at<g ref="char:EOLhyphen"/>tempt ſuch facinorous actions, even at nooneday, as if he had com<g ref="char:EOLhyphen"/>miſſion and authority to performe them <hi>Cumprivilegio.</hi>
+               <q xml:lang="lat">
+                  <l>—Audax omnia perpeti.</l>
+                  <l>Gens humana ruit per vetitum nèfas.</l>
+               </q>
+            </p>
+            <p>Good God what an age do we live in! what a wilderneſſe of we is
+<pb n="4" facs="tcp:155773:4"/>
+this ſtrange world now come to! <hi>Vivitur ex rapto,</hi> men now a daies live by catching and ſnatching. <hi>Terras aſtrea reliquit,</hi> Iuſtice hath de<g ref="char:EOLhyphen"/>ſerted the earth, and is aſcended into heaven. She is not more a pil<g ref="char:EOLhyphen"/>grime then a peregrine, and not ſo much a ſojourner as a ſtranger a<g ref="char:EOLhyphen"/>mongſt us. There is little or no divine juſtice adminiſtred, few or no wholeſome Lawes executed. Courts of judicature lie now vacant, except the ſupream Court, and ſupremeſt of all Courts, which in regard of the weighty affaires of the ſtate of this Kingdome cannot be ſilent, <hi>Toto Mars ſavit in orbe.</hi> What a havock hath this blou<g ref="char:EOLhyphen"/>dy hand of Warre made in the world? The drum every night gives Martiall ſummons, and the Trumpet every day is ſounding in our eares. Death hath a long time marched into the field, where two great and powerfull Armies have reſolutely met, and thouſands on both ſides unfortunately ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in. New forces for this civill, (uncivill) warre have been and are raiſed: both the Armies are at this inſtant ſtill on foot in the very bowels of this Kingdome, ready every house to fight, ſo that without Gods gracious mercy to this Land and nati<g ref="char:EOLhyphen"/>on, a dreadfull deſolation like an ominous and imuſpicious meteor hovers over our heads. People talk of a ceſſation of Arms for twenty dayes, and of a treatie in that time for an accommodation, but for ought I hear, there is little or no hopes of a preſent pacification; it is to be feared that the Sword (which hath bin ſo long drawn) will not be in haſte ſheathed, by which there hath already beene ſo much Chriſtian bloud ſpilt, that nothing for ſatisfaction but it can decide this great conteſtation between the King, and the Parliament. Who would have thought two yeares ago, that ſuch times as theſe would have been? Our Progenitours never knew the ſame, and I pray God ſucceeding generations may never ſee the like. Sure this is the iron age, and we that live in it <hi>durum genus ſumus,</hi> we are a hard nati<g ref="char:EOLhyphen"/>on, hard-hearted, and iron-like qualified, <hi>Miſanthropi</hi> and <hi>Tymoniſts</hi> (men-haters like <hi>Tymon</hi> of <hi>Athens)</hi> are common every where a<g ref="char:EOLhyphen"/>mongſt us. I will not ſay <hi>Homo homini Daemon,</hi> Man is to man a Devil,
+<pb n="5" facs="tcp:155773:4"/>
+but I may ſay, <hi>Homo homini Lupus.</hi> Man is to man a Wolf. Many men do endeavour and aim at nothing more then to devoure one ano<g ref="char:EOLhyphen"/>ther, and that they do two manner of wayes; either by the violence of their hands, or by the virulence of their tongues; by exacting op<g ref="char:EOLhyphen"/>preſſion in their goods, or by detracting defamation in their good names. In the former manner the Plunderer is injurious againſt all Law to his brother: <hi>Legem tenere ſe putat nullam divinam, aut hu<g ref="char:EOLhyphen"/>manam,</hi> he will not be confined nor conformed to any Law (which ſhould regulate his actions) either divine or humane. Hence it is that he breakes the Law of equity, and of charity; and hence it is that either ſuch an unhappy Ataxic, diſorder and confuſion in the fabrick of this Kingdome, that every one therein is altogether for himſef, for his own ends, and particular advantage; ſo that there is no love little amity, leſſe unity, leaſt of all uniformity or unanimity, and no peace at all now amongſt us.</p>
+            <p>
+               <hi>Lucian</hi> ingenuouſly feignes, that <hi>Charon</hi> was on a time conducted by <hi>Mercurie</hi> to a huge promontorie and ample high mountain, that he might there take a full ſurvay of the World; and being asked when he deſcended from thence upon the earth, what he beheld, he ſaid, he ſaw the heavens above him like a vaſt circumference, the earth below him like a ſmall Center, that appeared to his view no bigger then a black ſpot; in which he could diſcern multitudes of men, like ſo many ſwarms of bees, of ſeverall ſorts, and all conditi<g ref="char:EOLhyphen"/>ons; the greater he perceived to be like ſo many Hornets, and they did ſting the leſſer, then he beheld diverſe motions and commoti<g ref="char:EOLhyphen"/>ons various actions and paſſions, ſome running, ſome riding, others ſwearing and ſwaggering; ſome againe ſtrugling and ſtriving, ma<g ref="char:EOLhyphen"/>ny quarrelling and fighting; plundering, and pillaging, killing and ſlaving, all in a hubbub and hurly-burly, and nothing in the whole univerſe (worth the ſeeing) but an univerſall uprore.</p>
+            <p>The morrall of this Apologue may be applied to theſe our times. It doth evidently appeare (we may ſee it without a perſpective
+<pb n="6" facs="tcp:155773:5"/>
+glaſſe) that in the world there is a generall confuſion, and like to be a miſerable combuſtion: It is too true (I would to God it were falſe) that the whole world is up in arms, and at this time in this Kingdome of <hi>England</hi> as there are Armies of feares abroad, ſo there are myriads of diſaſters, diſtempers and diſtractions here at home. This unnaturall, illegall, civill warre (which of all warres is the worſt) is the cauſe of all our woes. Were it not for this there would be no newes of townes taken, Lords, Collonells, Captaines, com<g ref="char:EOLhyphen"/>manders, and ſo many ſouldiers ſlain, ſo many maſſacres (as there are) daily acted; were it not for this, there would be no carrying into captivity, nor complaining in our ſtreets; no ſuch plundering and pillaging as now there is amongſt us: but in regard of this, no man can be certainly confident of what he hath, for he is certain of nothing but uncertainty: neither is the King of his Kingdome, nor the Peere of his Land, the Knight of his revenue, the Gentleman of his eſtate, the Citizen of his commodity, nor any Subject of his pro<g ref="char:EOLhyphen"/>perty. <hi>Belli alea eſt incerta,</hi> when once the Die of warre is thrown, it is uncertain who ſhall win, or loſe; none can determine or know who ſhall have the victory, or the overthrow, but the Lord of hoſts that great Generall Commander who alone knowes all things.</p>
+            <p>
+               <hi>Quidjam niſi vota ſuperſunt?</hi> What now remaines, but that we pray unto the Lord God of our ſalvation, that he would ſave and deliver us from the hands of our enemies. Pray we to the God of Peace that he would be pleaſed to grant us Peace, and that Peace of God which the world cannot give, but which paſſeth and ſurpaſſeth all humane underſtanding. Pray we to God for our gracious King, that the King of Kings would preſerve him from his falſe friends, and fierce foes; for the Kingdome that God would open their eyes to ſee, and for all the people that he would open their hearts to con<g ref="char:EOLhyphen"/>ſider thoſe things that belong to a temporall, ſpirituall, and eternall Peace.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
